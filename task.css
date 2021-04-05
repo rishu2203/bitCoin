@@ -1,0 +1,51 @@
+*{
+    padding: 0px 0px;
+    margin: 0px;
+}
+body
+{
+    background-image: url("./BitCoin_pic.jpg");
+    background-size: cover ;
+
+}
+#bit_def
+{
+    position: relative;
+    font-size: 100px;
+    font-weight: bolder;
+    margin: -45px 67px;
+}
+
+#text_disp p pre
+{
+    padding-left: 10px 20px;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    margin: 22px 67px;
+}
+#text_disp
+{
+    margin: 80px 67px   ;
+}
+div input
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    border: none;
+    color: white;
+    background-color: black;
+    margin: 22px 67px;
+    padding: 13px 59px;
+}
+
+
+    #circle {
+        position: absolute;
+        margin: 58px -9px;
+        width: 302px;
+        height: 302px;
+        background: rgba(251, 255, 0, 0.685);
+        border-radius: 50%;
+        
+      }
